@@ -1,0 +1,49 @@
+﻿.curriculum{
+    height: 30rem;
+    width:70%;
+    margin: auto;
+    color: rgb(230, 255, 5);
+    background-color: rgb(1, 183, 255);
+    position:relative;
+}
+
+h1{
+    position: absolute;
+    left: 50%;
+    top:15%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.Img{
+    height:85%;
+    width:45%;
+    top: 5%;
+    position: relative;
+    border-radius: 40px;
+}
+
+p{
+    left:50%;
+    top: 30%;
+    width:50%;
+    position: absolute;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 1cm;
+}
+
+.conocer{
+    position: absolute;
+    background-color: white;
+    color:black;
+    left: 50%;
+    top:60%;
+    height: 40px;
+    width: 30%;
+    font-size: 100%;
+}
+a:visited {
+    color: darkslategray;
+  }
+a:active{
+    color:black;
+}
